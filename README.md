@@ -3,6 +3,11 @@
 Phone number wordlist generator.
 Intended for use in conjunction with pentesting tools.
 
+Total size of the generated text file for all US phone numbers is 26.2 GB (2,383,999,702 phone numbers).
+
+
+## Information
+
 "NANP (North American Numbering Plan) numbers are ten digits in
 length, and they are in the format: NXX-NXX-XXXX Where N is any
 digit 2-9 and X is any digit 0-9.
