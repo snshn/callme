@@ -1,6 +1,8 @@
 all: gcc
-gcc:
-	@gcc -o callme callme.c
-clean:
-	@rm -f callme
 
+gcc:
+	@gcc -o phone-numbers phone-numbers.c
+	# @gcc -o street-addresses street-addresses.c
+
+clean:
+	@rm -f phone-numbers # street-addresses

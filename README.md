@@ -1,4 +1,6 @@
-# callme
+# Wordlist Generator
+
+## Phone Numbers
 
 Phone number wordlist generator.
 Intended for use in conjunction with pentesting tools.
@@ -22,7 +24,7 @@ make clean all
 ## Usage
 
 ```console
-./callme > us-phone-numbers.txt
+./phone-numbers > phone-numbers.txt
 ```
 
 
@@ -35,4 +37,3 @@ Authors of this software bear no responsibility for the numbers this program gen
 ## License
 
 This software is released into the public domain.
-
