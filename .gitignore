@@ -1,2 +1,5 @@
 phone-numbers
 street-addresses
+
+*.lst
+*.txt

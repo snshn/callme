@@ -124,7 +124,33 @@ int area_codes[] = {
     /* Canada */
     /* ****** */
 
-    // TODO
+    // Alberta
+    403, 587, 780, 825, 368,
+    // British Columbia
+    250, 604, 778, 236, 672,
+    // Manitoba
+    204, 431, 584,
+    // New Brunswick
+    506, 428,
+    // Newfoundland and Labrador
+    709, 879,
+    // Northwest Territories
+    867,
+    // Nova Scotia
+    902, 782,
+    // Nunavut
+    867,
+    // Ontario
+    204, 416, 431, 437, 519, 548, 613, 647, 683, 705, 753, 807, 905, 226, 249,
+    289, 343, 365, 437, 368, 343, 382,
+    // Prince Edward Island
+    902, 782,
+    // Quebec
+    418, 438, 450, 514, 579, 581, 819, 873, 354, 263, 468,
+    // Saskatchewan
+    306, 639, 474,
+    // Yukon
+    867,
 
 };
 
